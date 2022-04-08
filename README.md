@@ -1,6 +1,6 @@
 ## Mi primer pagina web
 
-el contenido estara enfocado a mostrar comandos basicos de Git
+El contenido estara enfocado a mostrar comandos basicos de Git y Github
 
 ### Temas
 1. Que es branch
